@@ -6,7 +6,7 @@ function Calculator() {
   return (
         <>
           <div className='calculator-body'>
-            <Display displayNumber='0'/>
+            <Display displayNumber='00'/>
 
           </div>
 
